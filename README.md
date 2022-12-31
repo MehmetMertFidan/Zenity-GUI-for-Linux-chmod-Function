@@ -2,6 +2,10 @@
 
 Bu program Linux işletim sistemindeki chmod komutunun işlevlerini yerine getirmek için, Zenity kütüphanesi ile görsel arayüz oluşturularak yapılmış bir programdır. 
 
+## Chmod Komutu Nedir?
+
+Dosya ve dizinlerin erişim haklarını koyan ve bu hakları değiştiren komuttur. Bir dosya ya da dizinin erişim hakkını ancak dosyanın sahibi (owner) ya da üst kullanıcı (superuser) değiştirebilir. Linux'da 3 tür kullanıcı vardır. User, group ve other. Bu kullanıcıların her dosyada sahip olduğu 3 adet izin vardır. Read, write ve execute. Linux'da chmod komutunu kullanarak kullanıcıların dosyalarda sahip olduğu bu izinleri değiştirebiliyoruz.
+
 ## Program Kurulumu
 
 Programı kurmak ve çalıştırmak için terminalde aşağıdaki komutlar çalıştırılmalıdır.
