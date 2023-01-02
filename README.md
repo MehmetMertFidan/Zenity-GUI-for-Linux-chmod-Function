@@ -1,4 +1,4 @@
-# Zenity-GUI-for-Linux-chmod-Function-
+# Zenity-GUI-for-Linux-chmod-Function
 
 Bu program Linux işletim sistemindeki chmod komutunun işlevlerini yerine getirmek için, Zenity kütüphanesi ile görsel arayüz oluşturularak yapılmış bir programdır. 
 
@@ -19,11 +19,11 @@ sudo apt install git
 `
 
 `
-git clone https://github.com/MehmetMertFidan/Zenity-GUI-for-Linux-chmod-Function-.git
+git clone https://github.com/MehmetMertFidan/Zenity-GUI-for-Linux-chmod-Function.git
 `
 
 `
-cd Zenity-GUI-for-Linux-chmod-Function-
+cd Zenity-GUI-for-Linux-chmod-Function
 `
 
 `
